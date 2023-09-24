@@ -1,4 +1,49 @@
 ==============================================
+AfterLife Project v2.0 (Sinners) Changelogs :
+==============================================
+
+Date: 24/September 2023
+
+- Merged September security patches
+- Merge Tag r82
+- Bump Version to 2.0 Codename "SinnerS"
+- Add Support For Vanilla,CoreGapps And Gapps Variant
+- Update our ringtone
+- Adapt Wallpaper default to version Sinners
+- Allow toggling privacy indicators
+- bump Reticker to v1.1
+- Introduce AppLock
+- Show daily data usage with toggle
+- ScreenOff Animation
+- Add BatteryBar
+- Make Roaming indicator Optional
+- Introduce dinamic VoLTE & VoWiFi
+- Enable and tune split notification shade
+- Allow using 5G Icon instead LTE
+- Power Menu style Animation
+- Add Delete button to screenshoot
+- Android P Animation
+- Make Icon More Black
+- Add 9 Battery style ,also add Origami, simplify, Landscape IOS, and Miui Pill From iconify
+- Redesign preference category again
+- Intergrate google lens into screenshoot
+- Colored Qs Notification icon with toggle
+- Support PerApp Volume
+- Add Combine Signal icon with toggle
+- Add Call Strenght
+- Introduce adaptive playback
+- Enable media player wave/shimmer
+- Enable charger plug-in statusbar chip
+- Redesign dark mode preference
+- Add Hotspot setting to allow VPN upstream
+- Redesign About Phone (Credit AfterLife Team)
+- Allow disbale screenshoot shutter sound
+- Bringback android 10 header lottie with new vibe
+- Add searchbar to base Settings activity
+- Redesign AfterLabs for V2 "SinnerS"
+- Add Statusbar icon Control
+
+==============================================
 AfterLife Project v1.0 (Temptation) Changelogs
 ==============================================
 
