@@ -1,4 +1,57 @@
 ==============================================
+AfterLife Project v3.0 (Envy) Changelogs :
+==============================================
+
+Date: 01/November 2023
+
+- Merged October security patches
+- Bump Version to 3.0 Codename "Envy"
+- Adapt Wallpaper default to version Envy
+- Add Pixel charger animation
+- Switch to new Gapps
+- Switch to new bootanimation
+- Add OmniJaws (launcher and LockScreen)
+- More improvement on Launcher3
+- Hide power menu on secure lockscreen
+- Fingerprint authentication vibration
+- Allow disabling ripple effect on unlock
+- InCall vibration option
+- Add Phone ringtone for 2nd Sim
+- Add User Toggle for gameProp
+- Add Custom navbar gesture
+- Add Custom Category preference
+- Add Custom Statusbar Logo
+- Introduce Smart 5G service
+- Bringback Qs battery customization
+- Add battery charging warning
+- Add Qs tile laout customization (label hide, vertical,A11QsUi)
+- Add transparent Qs customization
+- Implement bluetooth dialog Qs
+- Introduce OOS style notification clear all button
+- Add Edge light customization 
+- Allow toggle dualTone Qs background
+- Allow disable clipboard overlay
+- Max visible notification
+- Add LockScreen Clock font customization
+- Add Nfc Tile
+- Add AmbientDisplay Tile
+- Toggle disable charging animation
+- Add Qs columns customization 
+- Add toggle to chage QS tile shape
+- Forward port lockscreen quick unlock
+- Add option to scramble pin layout when unlocking
+- Make Quick Unlock compatible with long PIN/Password
+- Allow scheduling always on display
+- Add option to enable AOD on charging only
+- Redesign Firmware version (Animated clicking logo, Maintainer Card,)
+- Move ExtraDim and blur toggle to display
+- Move Double line clock to AfterLabs
+- Redesign About team (Drop Dotkit No Longger Support)
+- Redesign AfterLabs (Make default and tab style optional)
+- Add Signature Spoofing option
+- Improve stability and fix minor bug
+
+==============================================
 AfterLife Project v2.0 (Sinners) Changelogs :
 ==============================================
 
