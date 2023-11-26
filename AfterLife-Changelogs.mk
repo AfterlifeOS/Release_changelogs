@@ -1,4 +1,33 @@
 ==============================================
+AfterLife Project v4.0 (wrath) Changelogs :
+==============================================
+
+Date: 27/November 2023
+
+- Merged November security patches
+- Bump Version to 4.0 Codename "Wrath"
+- Adapt Wallpaper default to version Wrath
+- Build Our Wallpaper (NeverLand)
+- Switch To New Bootanimation (Thanks To @cursed4D)
+- Add AfterLife Recovery
+- reDesign AfterLabs Again
+- Drop Qs vertical layout
+- Drop Qs Tile Label settings
+- Drop Qs Columns
+- Drop QsUI A11
+- Introduce AfterLife Qs Panel (Credit AfterLife team)
+- Drop Data Usage Controller (Active by default)
+- Add Ability to change username in new qs footer
+- Add Ability to change User Pic in new qs footer
+- Add Shake Animation Qs
+- reArrange statusbar logo (Only AfterLife Logo)
+- Add hotspot toggle to internet dialog
+- Implement new screenshot sound effect
+- Fix Offline charging issue for some device
+- Fix Overide text on banner Settings
+- Improve stability and performance
+
+==============================================
 AfterLife Project v3.0 (Envy) Changelogs :
 ==============================================
 
