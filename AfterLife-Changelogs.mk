@@ -1,4 +1,35 @@
 ==============================================
+AfterLife Project v5.0 (Lust) Changelogs :
+==============================================
+
+Date: 31/December 2023
+
+- Merged December security patches
+- Bump Version to 5.0 Codename "Lust"
+- Adapt Wallpaper default to version Lust
+- Redesign switch preference
+- Add Navbar layout customization
+- Add seekbar for Top/Left/Right statusbar Paddings
+- Fix Qs Media Player
+- Fix Qs user Picture (Now U can choose photo from default gallery)
+- Fix AfterLife Qs Style
+- Redesign launcher preference (With card and add about team)
+- ScreenDecorations: Fixed Red Corner
+- add wave fade-out animation to qs media player
+- Show bluetooth battery level
+- Add Lineage Charging control
+- Allow toggling screen off UDFPS
+- Revision of Custom category style
+- Introduce Lockscreen Style (Credit by afterlife Team)
+- Improve Labs (With Card)
+- Fix Afterlife tile on device notch
+- Introduce Time Header Image Qs
+- Introduce Settings Dashboard Style (default and Horizontal View Style)
+- Redesign About phone
+- Move Notch Cutout to Display
+- Improve stability and performance
+
+==============================================
 AfterLife Project v4.0 (wrath) Changelogs :
 ==============================================
 
