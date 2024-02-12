@@ -1,4 +1,27 @@
 ==============================================
+AfterLife Project v6.0 (Greedy) Changelogs :
+==============================================
+
+Date: 12/February 2024
+
+- Merged February security patches
+- Bump Version to 6.0 Codename "Greedy"
+- Switch Android Version To 13 EOL.
+- Adapt Wallpaper default to version Greedy
+- Introduce AfterLife Quick Setting Style V.2 (Inspiration From Oos).
+- Drop Qs profil Picture.
+- Switch to Memocho (drop dogbin).
+- Hide Notification Media Player
+- Add Wifi Standart Icon.
+- Implement Glass Blur Effect.
+- Move Overlay Notch to Display Settings.
+- Add NotchBar Killer.
+- Add Kill Recent Task.
+- Make Custom Ls Disable by default.
+- Add Customize Tittle Bar and base layout.
+- Drop Lottie Header Settings.
+
+==============================================
 AfterLife Project v5.0 (Lust) Changelogs :
 ==============================================
 
