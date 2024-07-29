@@ -1,4 +1,63 @@
 ==============================================
+AfterLife Project v7.0 (Patience) Changelogs :
+==============================================
+
+Date: 29/July 2024
+
+- Inital Android 14 Release
+- Merged may security patch 14_r35 (QPR2)
+- Only Support for Vanilla variant.
+- Added Advance reboot feature.
+- Added Gameprops without controller
+- Seperate tile is added for data and wifi.
+- Added three finger screenshots option.
+- Added Our Own wallpaper by default.
+- Set Own ringtone(Alarm,notification and ringtone)
+- Bring back our settings UI
+- Add Game space Support
+- Add double tap to trigger doze
+- Add Back gesture height settings
+- Allow to hide arrow for back gesture
+- Add smart pause
+- Add a toggle to force LTE_CA
+- Add three-fingers-swipe to screenshot
+- move Extra Dim feature to display
+- Move custom DP settings under display settings
+- Move AOSP Gestures to AfterLabs
+- Move blur toggle to Display options.
+- Add network traffic 
+- Add option to launch statusbar tuner
+- Option to Display Data Disabled Indicator Icon
+- Make roaming indicator optional
+- Allow using 4G icon instead LTE
+- Add settings to change QS tile shape
+- Bring back clock Customization
+- Allow disabling ripple effect on unlock
+- Make colored Statusbar Icons optional
+- Add Notification Count in Statusbar
+- Transparent QS customization
+- Allow to suppress notifications sound/vibration if screen is ON
+- Forward Port Volume Long Press Skip Tracks
+- Screen off animation
+- Add window ignore secure feature
+- Less boring heads up option
+- Allow disabling qs on secure lockscreen
+- Add Wake on plug
+- Allow toggling privacy indicators
+- Volume Rocker Wake
+- Bring back battery styles customizations
+- Add monet customization
+- Add Notification Island feature
+- OOS style notification clear all button
+- Add UDFPS Customization
+- Fingerprint authentication vibration
+- Blink Flashlight on calls
+- Make round QS toggleable
+- Add settings to change QS column count
+- Bring back Afterlife Logo Statusbar
+- Add Qs Pnel Style (twotone accent and Twotone outline accent)
+
+==============================================
 AfterLife Project v6.0 (Greedy) Changelogs :
 ==============================================
 
