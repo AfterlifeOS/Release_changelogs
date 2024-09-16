@@ -1,4 +1,36 @@
 ==============================================
+AfterLife Project v7.1 (Kindy) Changelogs :
+==============================================
+
+Date: 16/September 2024
+
+- Merged September patch 14_r67 (QPR3)
+- Switch to new Logo New Brand (AfterlifeOS)
+- Switch to new bootanimation
+- Add face unlock support
+- Add Qs Header image customization
+- Implement Lineage Health Service
+- Add Weather Stuff base OmniJaws
+- Add Lockscreen Clock Style
+- Add support for lockscreen clock font
+- Add Lockscreen widget Support
+- Introduce Adaptive sound engine service
+- Bringback Afterlife Qs OOs Style With some modification and improvement
+- Add Qs data usage Without Controller (enable by default)
+- Introduce cache cleaner service
+- Add Wallpaper Dept Fitur
+- Introduce Smart 5G service
+- Drop Qs column Customization [TMP]
+- Drop Qs tile Shape Option [TMP]
+- Drop Qs panel Style
+- Add Spoof Option
+- Redesign Volume panel (P 404)
+- Switch to SwitchPreferenceCompat
+- Improve afterlabs
+- add support Gapps Full only
+- Improve performance and stability.
+
+==============================================
 AfterLife Project v7.0 (Patience) Changelogs :
 ==============================================
 
