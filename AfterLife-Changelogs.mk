@@ -1,4 +1,45 @@
 ==============================================
+AfterLife Project v7.2 (Polite) Changelogs :
+==============================================
+
+Date: 21/October 2024
+
+- Merged October patch (Merged android-security-14.0.0_r13)
+- Up version to 7.2 CodeName "Polite"
+- Adapt Wallpaper default to version "Polite"
+- Fix Monet 
+- Improve afterlife Qs (Add power and user button)
+- Add Qs Weather with option
+- Add ability to enable/disable Qs data usage
+- Introduce Afterlife custom Qs Style (Animation Style)
+- Allow locking tasks to recents
+- Update statusbar item gravity
+- Disable tuner by default
+- Fix OOS style notification clear all button
+- Fix Statusbar logo
+- Fix FPS Info for some device
+- Fix theme icon with restartUi
+- Bring Back Qs tile shape
+- Add tunings for status bar paddings
+- Add tile to show volume panel
+- fix per-app volume icon
+- Add animations to quick settings tiles
+- Bring back shake animation tile
+- redesign Accessibility Menu
+- Introduce Oplus QS Clock
+- [TMP] Hide Volte HD
+- Add FPS Info Overlay & Tile
+- Drop and clean up sound engine
+- Drop OTA support
+- Introduce AfterEcho base on Dolby Atmos
+- Fix Led Notification
+- Nuke scrollbars on homepage layout Settings
+- Add Bouncy scrollview from OOS
+- Move Notch Cutout to Display
+- Improve AfterHome
+- Improve stability and performance
+
+==============================================
 AfterLife Project v7.1 (Kindy) Changelogs :
 ==============================================
 
