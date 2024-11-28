@@ -1,4 +1,42 @@
 ==============================================
+AfterLife Project v7.3 (Honest) Changelogs :
+==============================================
+
+Date: 26/November 2024
+
+- Merged November patch (Merged android-security-14.0.0_r14)
+- Up version to 7.3 CodeName "Honest"
+- Adapt Wallpaper default to version "Honest"
+- Fix Setting homebase preference for extras menu 
+- Allow to quickly open Running Services from meminfo view
+- Fix Crash while tap on memory usage on recents
+- Add avatar to search bar
+- Bring back Settings dashboard style and improve code(Horizontal style)
+- Implement restart Util for restart settings
+- Rework Spoof option
+- Fix UDFPS controller
+- reLand Less boring HeadsUp Option
+- Improve Island Notification feature
+- Add Pulse Music feature
+- Add More style for afterlife QS custom (HyperOs Style)
+- Add More style for afterlife QS custom (iOs Style)
+- Fix missing some qs  tile
+- Fix animation hide logo on statusbar
+- Fix Notif Count not working after reboot
+- Introduce wifi standard icon feature
+- Allow toggle dual tone QS background
+- Make QS Carrier view vertical
+- Correctly monet theme to new volume panel
+- Replace ripple with Fluent Design-inspired animation
+- Rework refresh rate selector page
+- Improve lock recent tasks feature
+- Exclude themed icons from icon packs
+- Bring back QuickSpace events
+- redesign AfterHome Launcher
+- Implement long press nav bar to search gesture
+- Improve stability and performance
+
+==============================================
 AfterLife Project v7.2 (Polite) Changelogs :
 ==============================================
 
