@@ -1,4 +1,29 @@
 ==============================================
+AfterLife Project v7.4 (Loyal) Changelogs :
+==============================================
+Date: 23/December 2024
+- Merged December patch (Merged android-security-14.0.0_r15)
+- Up version to 7.4 CodeName "Loyal"
+- Adapt Wallpaper default to version "Loyal"
+- Fix QR code scanner for some device.
+- Reworks Spoofing feature.
+- Fix cant login to google account.
+- Fix Qs secure Lockscreen feature.
+- Fix ripple effect on unlock.
+- Add LMOfreefrom and sidebar feature.
+- Fix Statusbar call chip.
+- Bring back HD & wifi calling statusbar icons
+- Prevent QS tiles from being clickable on lockscreen
+- Fix dualtone on dark mode.
+- Fix show bluetooth battery level.
+- Allow toggling floating rotation button.
+- Add animation to Afterlife qs custom tile.
+- Introduce 'More options' button on Quick Settings.
+- Improve Afterlife Qs (iOS Style).
+- Fix swipe for google application on AfterHome.
+- Improve stability and performance
+
+==============================================
 AfterLife Project v7.3 (Honest) Changelogs :
 ==============================================
 
